@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 - I'm currently learning
   - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  - ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=anemoneflower&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anemoneflower/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemoneflower&count_private=true&exclude_repo=MSQ_SegQ,smr-verification&hide=coq,tex&langs_count=8&layout=compact&theme=nightowl)](https://github.com/anemoneflower/github-readme-stats)
