@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [![Stats](https://github-readme-stats.vercel.app/api?username=anemoneflower&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anemoneflower/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anemoneflower&count_private=true&exclude_repo=MSQ_SegQ,smr-verification&hide=coq,tex&langs_count=8&layout=compact&theme=nightowl)](https://github.com/anemoneflower/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anemoneflower.anemoneflower)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anemoneflower.anemoneflower&left_color=black&right_color=violet)
