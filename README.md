@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat-square&logo=android-studio)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-square&logo=firebase)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
